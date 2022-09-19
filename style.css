@@ -1,0 +1,89 @@
+body {
+    background-color:green;
+    color:yellow;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    text-align:64px;
+    height: 100%;
+}
+
+#note{
+    text-align: center;
+}
+
+#entertwo{
+    text-align: center;
+}
+
+
+#instruct{
+    text-align: center;
+}
+
+.choices{
+    margin-top:50px;
+    justify-content:center;
+    display:flex;
+    align-items:center;
+    margin-bottom:40px;
+}
+
+#tosub{
+    
+    height:30px;
+    border-color:yellow;
+    color:Green;
+    font-size:25px;
+    text-align: center;
+    
+}
+
+#topush{
+border-color:yellow;
+    color:Green;
+    font-size:25px;
+    text-align: center;
+    height:30px;;
+}
+.forarray{
+    display:grid;
+    margin-top:50px;
+}
+button{
+    color:green;
+    height:40px;
+    padding:10px;
+    margin:8px;
+    background-color:yellow;
+}
+
+span{
+    font-size:30px;
+}
+
+
+#sub{
+    margin-top:20px;
+}
+
+h2{
+    text-align:center;
+}
+
+header{
+    text-align:center;
+    font-size:25px;
+}
+
+
+label{
+    text-align:center;
+}
+
+#toread{
+    color:yellow;
+    font-size:30px;
+    margin-bottom: 30px;
+}
